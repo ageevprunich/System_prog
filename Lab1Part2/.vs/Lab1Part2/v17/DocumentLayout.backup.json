@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ageev\\Documents\\GitHub\\System_prog\\Lab1Part2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6496AE-B8B3-4B41-9D9D-30989B38B87F}|Lab1Part2\\Lab1Part2.csproj|c:\\users\\ageev\\documents\\github\\system_prog\\lab1part2\\lab1part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6496AE-B8B3-4B41-9D9D-30989B38B87F}|Lab1Part2\\Lab1Part2.csproj|solutionrelative:lab1part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ageev\\Documents\\GitHub\\System_prog\\Lab1Part2\\Lab1Part2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab1Part2\\Program.cs",
+              "ToolTip": "C:\\Users\\ageev\\Documents\\GitHub\\System_prog\\Lab1Part2\\Lab1Part2\\Program.cs*",
+              "RelativeToolTip": "Lab1Part2\\Program.cs*",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:48:51.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
