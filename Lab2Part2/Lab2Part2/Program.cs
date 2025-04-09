@@ -72,7 +72,7 @@ namespace Lab2Part2Task1
                     for (int i = 0; i < size; i++)
                     {
                         intData[i] = i + 1;
-                        doubleData[i] = i + 1;
+                        doubleData[i] = i + 1.345;
                     }
                     Stopwatch sw = new Stopwatch();
                     sw.Start();

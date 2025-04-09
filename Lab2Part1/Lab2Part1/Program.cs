@@ -41,8 +41,7 @@ namespace Lab2Part1
                 MyTask();
             });
 
-            Task.WaitAll(tsk1, tsk2);
-            Console.WriteLine("Main() is done.");
+            
 
 
             Thread.Sleep(500);

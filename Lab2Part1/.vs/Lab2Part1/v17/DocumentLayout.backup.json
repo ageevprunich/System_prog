@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ageev\\Documents\\GitHub\\System_prog\\Lab2Part1\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{DE9BAAB4-5B6A-4A33-9FE4-CC8CB8B029DE}|Lab2Part1\\Lab2Part1.csproj|c:\\users\\ageev\\documents\\github\\system_prog\\lab2part1\\lab2part1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE9BAAB4-5B6A-4A33-9FE4-CC8CB8B029DE}|Lab2Part1\\Lab2Part1.csproj|solutionrelative:lab2part1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,24 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ageev\\Documents\\GitHub\\System_prog\\Lab2Part1\\Lab2Part1\\Program.cs",
-              "RelativeDocumentMoniker": "Lab2Part1\\Program.cs",
-              "ToolTip": "C:\\Users\\ageev\\Documents\\GitHub\\System_prog\\Lab2Part1\\Lab2Part1\\Program.cs*",
-              "RelativeToolTip": "Lab2Part1\\Program.cs*",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDQAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T16:17:56.482Z",
-              "EditorCaption": ""
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
             }
           ]
         }
