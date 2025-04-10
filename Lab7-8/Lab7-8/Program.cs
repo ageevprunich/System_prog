@@ -5,7 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.OutputEncoding = System.Text.Encoding.UTF8; // Щоб підтримувати папки українською
+        Console.OutputEncoding = System.Text.Encoding.UTF8; 
         Console.Write("Введіть шлях до директорії: ");
         string path = Console.ReadLine();
 

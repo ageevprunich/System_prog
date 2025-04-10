@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ageev\\Documents\\GitHub\\System_prog\\Lab7-8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D61CAF76-E252-47B6-B039-AE529D4D2254}|Task3\\Task3.csproj|c:\\users\\ageev\\documents\\github\\system_prog\\lab7-8\\task3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D61CAF76-E252-47B6-B039-AE529D4D2254}|Task3\\Task3.csproj|solutionrelative:task3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D61CAF76-E252-47B6-B039-AE529D4D2254}|Task3\\Task3.csproj|C:\\Users\\ageev\\Documents\\GitHub\\System_prog\\Lab7-8\\task3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D61CAF76-E252-47B6-B039-AE529D4D2254}|Task3\\Task3.csproj|solutionrelative:task3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E00A6D94-93CB-4EA5-9AB9-7A6908424369}|Task2\\Task2.csproj|c:\\users\\ageev\\documents\\github\\system_prog\\lab7-8\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E00A6D94-93CB-4EA5-9AB9-7A6908424369}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD7397C7-9F86-4E7B-B37A-AF8733CAAC5E}|Lab7-8\\Lab7-8.csproj|c:\\users\\ageev\\documents\\github\\system_prog\\lab7-8\\lab7-8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD7397C7-9F86-4E7B-B37A-AF8733CAAC5E}|Lab7-8\\Lab7-8.csproj|solutionrelative:lab7-8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61CAF76-E252-47B6-B039-AE529D4D2254}|Task3\\Task3.csproj|c:\\users\\ageev\\documents\\github\\system_prog\\lab7-8\\task3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61CAF76-E252-47B6-B039-AE529D4D2254}|Task3\\Task3.csproj|solutionrelative:task3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61CAF76-E252-47B6-B039-AE529D4D2254}|Task3\\Task3.csproj|C:\\Users\\ageev\\Documents\\GitHub\\System_prog\\Lab7-8\\task3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D61CAF76-E252-47B6-B039-AE529D4D2254}|Task3\\Task3.csproj|solutionrelative:task3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,51 +38,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\ageev\\Documents\\GitHub\\System_prog\\Lab7-8\\Task3\\Form1.cs",
               "RelativeDocumentMoniker": "Task3\\Form1.cs",
               "ToolTip": "C:\\Users\\ageev\\Documents\\GitHub\\System_prog\\Lab7-8\\Task3\\Form1.cs",
               "RelativeToolTip": "Task3\\Form1.cs",
-              "ViewState": "AgIAAKkAAAAAAAAAAAAAALoAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDQAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T10:48:18.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ageev\\Documents\\GitHub\\System_prog\\Lab7-8\\Task3\\Form1.cs",
               "RelativeDocumentMoniker": "Task3\\Form1.cs",
               "ToolTip": "C:\\Users\\ageev\\Documents\\GitHub\\System_prog\\Lab7-8\\Task3\\Form1.cs [Design]",
               "RelativeToolTip": "Task3\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T10:39:56.235Z"
+              "WhenOpened": "2025-04-09T10:39:56.235Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ageev\\Documents\\GitHub\\System_prog\\Lab7-8\\Task2\\Program.cs",
               "RelativeDocumentMoniker": "Task2\\Program.cs",
-              "ToolTip": "C:\\Users\\ageev\\Documents\\GitHub\\System_prog\\Lab7-8\\Task2\\Program.cs",
-              "RelativeToolTip": "Task2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ageev\\Documents\\GitHub\\System_prog\\Lab7-8\\Task2\\Program.cs*",
+              "RelativeToolTip": "Task2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T10:22:40.623Z"
+              "WhenOpened": "2025-04-09T10:22:40.623Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ageev\\Documents\\GitHub\\System_prog\\Lab7-8\\Lab7-8\\Program.cs",
               "RelativeDocumentMoniker": "Lab7-8\\Program.cs",
               "ToolTip": "C:\\Users\\ageev\\Documents\\GitHub\\System_prog\\Lab7-8\\Lab7-8\\Program.cs",
               "RelativeToolTip": "Lab7-8\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T10:13:59.967Z"
+              "WhenOpened": "2025-04-09T10:13:59.967Z",
+              "EditorCaption": ""
             }
           ]
         }
